@@ -1,8 +1,8 @@
 from splinter import Browser
 from time import sleep
 
-username = 'origamimaster951'
-password = 'Origami123'
+username = 'YOUR_USERNAME_HERE'
+password = 'YOUR_PASSWORD_HERE'
 #url = 'https://kissanime.ru/Anime/Yahari-Ore-no-Seishun-Love-Comedy-wa-Machigatteiru-Zoku'
 #url = 'https://kissanime.ru/Anime/Hinamatsuri'
 url = 'https://kissanime.ru/Anime/The-Legend-of-Korra'
